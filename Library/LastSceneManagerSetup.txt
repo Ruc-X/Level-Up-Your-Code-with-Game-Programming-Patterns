@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/TheSolidPrinciple/Single-responsibility Priciple/RSP.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
