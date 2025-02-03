@@ -4,7 +4,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 
 
-namespace DesignPattern.Factory
+namespace DesignPatterns.Factory
 {
 
     public interface IProduct{

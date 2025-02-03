@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-namespace DesignPattern.Factory
+namespace DesignPatterns.Factory
 {
     public class FactoryCube: Factory{
         [SerializeField] private GameObject _cubePrefab;

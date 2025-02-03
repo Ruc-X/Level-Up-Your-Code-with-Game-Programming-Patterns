@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/CreatePatterns/FactoryPattern/Example1/FactoryPatternExample1.unity
+- path: Assets/CreatePatterns/ObjectPoolPattern/Structor/ObjectPool.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

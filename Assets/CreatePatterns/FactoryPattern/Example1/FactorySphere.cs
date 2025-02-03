@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace DesignPattern.Factory{
+namespace DesignPatterns.Factory{
     public class FactorySphere: Factory
     {
         [SerializeField] private GameObject _spherePrefab;

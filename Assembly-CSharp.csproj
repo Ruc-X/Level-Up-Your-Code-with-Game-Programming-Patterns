@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Assets/CreatePatterns/FactoryPattern/Example1/ProductCube.cs" />
     <Compile Include="Assets/TheSolidPrinciple/Interface-segregation Principle/LSPRefactoredUnitStats.cs" />
+    <Compile Include="Assets/CreatePatterns/ObjectPoolPattern/Structor/ObjectPool.cs" />
     <Compile Include="Assets/TheSolidPrinciple/Lisvok-substitution principle/LSPRefactoredVehicle.cs" />
     <Compile Include="Assets/TheSolidPrinciple/Dependency-inversion Principle/DIPRefactoredSwitch.cs" />
     <Compile Include="Assets/TheSolidPrinciple/Open-closed Principle/OCPRefactoredAreaCalculator.cs" />
@@ -73,10 +74,13 @@
     <Compile Include="Assets/TheSolidPrinciple/Dependency-inversion Principle/UnrefactoredSwitch.cs" />
     <Compile Include="Assets/TheSolidPrinciple/Interface-segregation Principle/UnrefactoredUnitStatus.cs" />
     <Compile Include="Assets/TheSolidPrinciple/Open-closed Principle/UnrefactoredAreaCalculator.cs" />
+    <Compile Include="Assets/CreatePatterns/ObjectPoolPattern/Structor/ExampleProjectile.cs" />
     <Compile Include="Assets/CreatePatterns/FactoryPattern/Example1/FactoryPatternController.cs" />
+    <Compile Include="Assets/CreatePatterns/ObjectPoolPattern/Structor/PooledObject.cs" />
     <Compile Include="Assets/CreatePatterns/FactoryPattern/Example1/FactoryCube.cs" />
     <Compile Include="Assets/CreatePatterns/FactoryPattern/Example1/FactorySphere.cs" />
     <Compile Include="Assets/TheSolidPrinciple/Single-responsibility Priciple/UnrefactoredPlayer.cs" />
+    <Compile Include="Assets/CreatePatterns/ObjectPoolPattern/Structor/ExampleGun.cs" />
     <Compile Include="Assets/CreatePatterns/FactoryPattern/Example1/ProductSphere.cs" />
     <Compile Include="Assets/TheSolidPrinciple/Lisvok-substitution principle/UnrefactoredVehicle.cs" />
     <Compile Include="Assets/TheSolidPrinciple/Single-responsibility Priciple/SRPRefaccotredPlayer.cs" />

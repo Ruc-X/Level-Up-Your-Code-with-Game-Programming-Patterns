@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace DesignPattern.Factory
+namespace DesignPatterns.Factory
 {
     public class ProductCube: MonoBehaviour,IProduct{
         private string _productName = "ProductCube";
